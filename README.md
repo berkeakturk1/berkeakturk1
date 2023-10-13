@@ -5,5 +5,5 @@
 
 <p><b>:mailbox: Contact Me:<b><a href="mailto:aktrk-berke@yandex.com"> aktrk-berke@yandex.com<a><p>
 
- <img src="https://skillicons.dev/icons?i=unity,c,cpp,py"> <p>
+ <img src="https://skillicons.dev/icons?i=unity,c,c#,cpp,py"> <p>
 
