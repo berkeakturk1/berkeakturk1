@@ -1,9 +1,11 @@
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">, I'm berkeakturk1
+## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25" style="display:inline; vertical-align:middle;" />, I'm **Berke Aktürk**
 
-- 🚀 I daily use  ```.c#```, ```.js```, ```.ts```, ```.cpp```
-- 🤔 I'm interested in Game Development and Fullstack Development
+- 🎓 **Student:** Computer Engineering student at Baskent University, Graduated from Google AI and Tech Academy
+- 💼 **Developer:** Game Developer and Fullstack Developer  
+- 🚀 **Languages:** C#, C++, C, Python, Java, Dart, TypeScript  
+- ⚙️ **Technologies:** React, Node.js, Flutter, Java Spring, Unity Game Engine  
+- 👥 **Community:** Board Member of the Google Student Developers Community  
 
-<p><b>:mailbox: Contact Me:<b><a href="mailto:aktrk-berke@yandex.com"> aktrk-berke@yandex.com<a><p>
+**📫 Contact Me:** [contact@berkeakturk.com](mailto:contact@berkeakturk.com)
 
- <img src="https://skillicons.dev/icons?i=unity,js,ts,cpp,c#,react"> <p>
-
+![Tech Stack](https://skillicons.dev/icons?i=unity,js,ts,cpp,cs,react,java)
