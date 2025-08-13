@@ -8,4 +8,4 @@
 
 **📫 Contact Me:** [contact@berkeakturk.com](mailto:contact@berkeakturk.com)
 
-![Tech Stack](https://skillicons.dev/icons?i=unity,js,ts,cpp,cs,react,java)
+![Tech Stack](https://skillicons.dev/icons?i=unity,cs,cpp,js,ts,react,java)
